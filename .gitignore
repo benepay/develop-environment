@@ -1,0 +1,24 @@
+# IDE & DevelopmentTool
+/.vagrant
+/.idea
+/nbproject/private/
+/nbproject/
+/vagrant/.vagrant
+/vagrant
+/.bundle
+.vagrant
+composer.lock
+
+# environment
+.env
+
+# OS
+.DS_Store
+sh.exe.stackdump
+
+# logs & tmp file
+*.swp
+/logs/*
+!.gitkeep
+/vargant/ubuntu-xenial-16.04-cloudimg-console.log
+/projects/*
